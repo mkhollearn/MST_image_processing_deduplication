@@ -80,5 +80,7 @@ for key, value in count_dict.items():
 	if value != 2:
 		print(f"UH OH!: {key} has only {value} images!")
 
+# remove single files manually
+
 
 
