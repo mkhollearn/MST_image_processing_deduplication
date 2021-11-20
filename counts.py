@@ -2,7 +2,7 @@ import pandas as pd
 
 #counts the number of rows in the dataset based on the lure rating
 
-df = pd.read_csv('final_output2.csv')
+df = pd.read_csv('final_output.csv')
 df = df[['Lure Rating']]
 print(df[['index','Lure Rating']].groupby('Lure Rating').count())
 
