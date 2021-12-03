@@ -77,6 +77,9 @@ duplicate_file.close()
 
 df = df[df['hash'].isin(final_selection)]
 
+df['MDT-O '] = [image_name.replace('_1','').replace('_2','') for image_name in df['MDT-O '].values]
+
+
 df.to_csv('final_output.csv')
 
 #print(df)
@@ -92,6 +95,7 @@ for hash_val in hashes:
 for key, value in count_dict.items():
 	if value != 2:
 		print(f"UH OH!: {key} has only {value} images!")
+
 
 
 
