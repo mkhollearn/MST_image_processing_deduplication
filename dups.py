@@ -78,6 +78,7 @@ duplicate_file.close()
 df = df[df['hash'].isin(final_selection)]
 
 df['MDT-O '] = [image_name.replace('_1','').replace('_2','') for image_name in df['MDT-O '].values]
+df['MDT-O '] = [f'{image_name.split(".")[0]}.jpg' for image_name in df['MDT-O '].values]
 
 
 df.to_csv('final_output.csv')

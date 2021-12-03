@@ -306,7 +306,7 @@
 308,308,155a.jpg,kangaroo,1,,5,save,155-1
 309,309,155b.jpg,kangaroo,1,,5,save,155-1
 310,310,156a.jpg,picture frame,1,,1,save,156-1
-311,311,156b.JPG,picture frame,1,,1,save,156-1
+311,311,156b.jpg,picture frame,1,,1,save,156-1
 312,312,157a.jpg,watermelon,1,,4,save,157-1
 313,313,157b.jpg,watermelon,1,,4,save,157-1
 314,314,158a.jpg,beakers,1,,4,save,158-1
@@ -317,7 +317,7 @@
 319,319,160b.jpg,silverware organizer,1,,3,save,160-1
 320,320,161a.jpg,step stool,1,,4,save,161-1
 321,321,161b.jpg,step stool,1,,4,save,161-1
-322,322,162a.jpeg,movie film,1,,3,save,162-1
+322,322,162a.jpg,movie film,1,,3,save,162-1
 323,323,162b.jpg,movie film,1,,3,save,162-1
 324,324,163a.jpg,semi truck,1,,3,save,163-1
 325,325,163b.jpg,semi truck,1,,3,save,163-1
@@ -376,7 +376,7 @@
 378,378,190a.jpg,scissors,1,,5,save,190-1
 379,379,190b.jpg,scissors,1,,5,save,190-1
 380,380,191a.jpg,ship in a bottle,1,,1,save,191-1
-381,381,191b.jpeg,ship in a bottle,1,,1,save,191-1
+381,381,191b.jpg,ship in a bottle,1,,1,save,191-1
 382,382,192a.jpg,gold bars,1,,2,save,192-1
 383,383,192b.jpg,gold bars,1,,2,save,192-1
 384,384,001a.jpg,plate,2,,5,save,001-2
@@ -674,7 +674,7 @@
 690,690,154a.jpg,saw blade,2,,1,save,154-2
 691,691,154b.jpg,saw blade,2,,1,save,154-2
 694,694,156a.jpg,chicken wind vane,2,,3,save,156-2
-695,695,156b.JPG,chicken wind vane,2,,3,save,156-2
+695,695,156b.jpg,chicken wind vane,2,,3,save,156-2
 696,696,157a.jpg,hair straightener,2,,5,save,157-2
 697,697,157b.jpg,hair straightener,2,,5,save,157-2
 698,698,158a.jpg,helicopter,2,,5,save,158-2
@@ -685,7 +685,7 @@
 703,703,160b.jpg,shoe,2,,1,save,160-2
 704,704,161a.jpg,wind chime,2,,5,save,161-2
 705,705,161b.jpg,wind chime,2,,5,save,161-2
-706,706,162a.jpeg,parakeet,2,,5,save,162-2
+706,706,162a.jpg,parakeet,2,,5,save,162-2
 707,707,162b.jpg,parakeet,2,,5,save,162-2
 708,708,163a.jpg,dominos,2,,3,save,163-2
 709,709,163b.jpg,dominos,2,,3,save,163-2
@@ -740,7 +740,7 @@
 762,762,190a.jpg,nesting dolls,2,,2,save,190-2
 763,763,190b.jpg,nesting dolls,2,,2,save,190-2
 764,764,191a.jpg,coffee pin,2,,5,save,191-2
-765,765,191b.jpeg,coffee pin,2,,5,save,191-2
+765,765,191b.jpg,coffee pin,2,,5,save,191-2
 766,766,192a.jpg,chess,2,,2,save,192-2
 767,767,192b.jpg,chess,2,,2,save,192-2
 768,768,001a.jpg,weekly pill case,3,,5,save,001-3
@@ -1034,7 +1034,7 @@
 1076,1076,155a.jpg,flask,3,,2,save,155-3
 1077,1077,155b.jpg,flask,3,,2,save,155-3
 1078,1078,156a.jpg,brick,3,,5,save,156-3
-1079,1079,156b.JPG,brick,3,,5,save,156-3
+1079,1079,156b.jpg,brick,3,,5,save,156-3
 1080,1080,157a.jpg,tandem bike,3,,5,save,157-3
 1081,1081,157b.jpg,tandem bike,3,,5,save,157-3
 1084,1084,159a.jpg,harmonica,3,,5,save,159-3
@@ -1094,7 +1094,7 @@
 1146,1146,190a.jpg,sleeping bag,3,,2,save,190-3
 1147,1147,190b.jpg,sleeping bag,3,,2,save,190-3
 1148,1148,191a.jpg,shells,3,,3,save,191-3
-1149,1149,191b.jpeg,shells,3,,3,save,191-3
+1149,1149,191b.jpg,shells,3,,3,save,191-3
 1152,1152,001a.jpg,file cabinet,4,,4,save,001-4
 1153,1153,001b.jpg,file cabinet,4,,4,save,001-4
 1154,1154,002a.jpg,copper wire,4,,2,save,002-4
@@ -1325,7 +1325,7 @@
 1467,1467,158b.jpg,dining chair,4,,5,save,158-4
 1468,1468,159a.jpg,piñata,4,,2,save,159-4
 1469,1469,159b.jpg,piñata,4,,2,save,159-4
-1474,1474,162a.jpeg,ice skates,4,,4,save,162-4
+1474,1474,162a.jpg,ice skates,4,,4,save,162-4
 1475,1475,162b.jpg,ice skates,4,,4,save,162-4
 1478,1478,164a.jpg,grand piano,4,,1,save,164-4
 1479,1479,164b.jpg,grand piano,4,,1,save,164-4
@@ -1374,7 +1374,7 @@
 1530,1530,190a.jpg,bag of chips,4,,2,save,190-4
 1531,1531,190b.jpg,bag of chips,4,,2,save,190-4
 1532,1532,191a.jpg,classic guitar,4,,2,save,191-4
-1533,1533,191b.jpeg,classic guitar,4,,2,save,191-4
+1533,1533,191b.jpg,classic guitar,4,,2,save,191-4
 1534,1534,192a.jpg,air hockey,4,,2,save,192-4
 1535,1535,192b.jpg,air hockey,4,,2,save,192-4
 1536,1536,001a.jpg,peanut butter,5,,4,save,001-5
@@ -1668,7 +1668,7 @@
 1912,1912,189a.jpg,scale,5,,4,save,189-5
 1913,1913,189b.jpg,scale,5,,4,save,189-5
 1916,1916,191a.jpg,ribbon,5,,5,save,191-5
-1917,1917,191b.jpeg,ribbon,5,,5,save,191-5
+1917,1917,191b.jpg,ribbon,5,,5,save,191-5
 1918,1918,192a.jpg,tablet,5,,3,save,192-5
 1919,1919,192b.jpg,tablet,5,,3,save,192-5
 1920,1920,001a.jpg,egg-shaped stainless steel timer,6,,1,save,001-6
@@ -1735,7 +1735,7 @@
 2001,2001,041b.jpg,wall lantern,6,,3,save,041-6
 2002,2002,042a.jpg,yoga mat,6,,2,save,042-6
 2003,2003,042b.jpg,yoga mat,6,,2,save,042-6
-2006,2006,044a.jpgeye patch,eye patch,6,,3,save,044-6
+2006,2006,044a.jpg,eye patch,6,,3,save,044-6
 2007,2007,044b.jpg,eye patch,6,,3,save,044-6
 2008,2008,045a.jpg,drums,6,,2,save,045-6
 2009,2009,045b.jpg,drums,6,,2,save,045-6
@@ -2151,8 +2151,6 @@
 3147,3147,038b.jpg,knitting kit,e,,4,save,038-e
 3152,3152,041a.jpg,leash,e,,1,save,041-e
 3153,3153,041b.jpg,leash,e,,1,save,041-e
-3182,3182,056a.jpg,trash bag,e,,1,save,056-e
-3183,3183,056b.jpg,trash bag,e,,1,save,056-e
 3186,3186,058a.jpg,bobby pin,e,,2,save,058-e
 3187,3187,058b.jpg,bobby pin,e,,2,save,058-e
 3188,3188,059a.jpg,cat carrier,e,,1,save,059-e
@@ -2227,7 +2225,7 @@
 3391,3391,160b.jpg,crocks,e,,3,save,160-e
 3392,3392,161a.jpg,pill organizer,e,,5,save,161-e
 3393,3393,161b.jpg,pill organizer,e,,5,save,161-e
-3394,3394,162a.jpeg,gold jar,e,,3,save,162-e
+3394,3394,162a.jpg,gold jar,e,,3,save,162-e
 3395,3395,162b.jpg,gold jar,e,,3,save,162-e
 3400,3400,165a.jpg,shake,e,,5,save,165-e
 3401,3401,165b.jpg,shake,e,,5,save,165-e
@@ -2265,6 +2263,8 @@
 3537,3537,041b.jpg,nail filer,f,,3,save,041-f
 3544,3544,045a.jpg,band aid,f,,1,save,045-f
 3545,3545,045b.jpg,band aid,f,,1,save,045-f
+3558,3558,052a.jpg,guitar case,f,,1,save,052-f
+3559,3559,052b.jpg,gutiar case,f,,1,save,052-f
 3570,3570,058a.jpg,hair tie,f,,4,save,058-f
 3571,3571,058b.jpg,hair tie,f,,4,save,058-f
 3572,3572,059a.jpg,loudspeaker,f,,1,save,059-f
@@ -2312,4 +2312,4 @@
 3834,3834,190a.jpg,camera film,f,,1,save,190-f
 3835,3835,190b.jpg,camera film,f,,1,save,190-f
 3836,3836,191a.jpg,disposable camera,f,,3,save,191-f
-3837,3837,191b.jpeg,disposable camera,f,,3,save,191-f
+3837,3837,191b.jpg,disposable camera,f,,3,save,191-f
